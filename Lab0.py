@@ -1,4 +1,4 @@
-#Programmers: Cooper Nazar and Jalen Henderson.
+#Programmers: Cooper Nazar and Jalen Henderson
 #Course: CS151, Dr. Yalew
 #Due Date: 9/12/24
 #Lab Assignment: 0
