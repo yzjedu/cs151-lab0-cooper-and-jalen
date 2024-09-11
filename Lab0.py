@@ -9,12 +9,16 @@
 
 print("CS151 Lab 00")
 
+print("-------------------------------------------------------------------------------------------------------------")
+
 print("Partner 1: Cooper")
 print("Fact 1: Has two dogs")
 print("Fact 2: Likes to read")
 print("Fact 3: Likes libraries")
 print("Fact 4: Has been to England")
 print("Fact 5: Lived in Connecticut all his life")
+
+print("-------------------------------------------------------------------------------------------------------------")
 
 print("Partner 2: Jalen")
 print("Fact 1: Ran track and field")
