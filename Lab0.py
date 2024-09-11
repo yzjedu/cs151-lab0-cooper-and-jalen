@@ -1,0 +1,15 @@
+print("CS151 Lab 00")
+
+print("Partner 1: ")
+print("Fact 1: ")
+print("Fact 2: ")
+print("Fact 3: ")
+print("Fact 4: ")
+print("Fact 5: ")
+
+print("Partner 2: ")
+print("Fact 1: ")
+print("Fact 2: ")
+print("Fact 3: ")
+print("Fact 4: ")
+print("Fact 5: ")
