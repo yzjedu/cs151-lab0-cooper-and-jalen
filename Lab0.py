@@ -9,7 +9,7 @@
 
 print("CS151 Lab 00")
 
-print("Partner 1: ")
+print("Partner 1: Cooper")
 print("Fact 1: ")
 print("Fact 2: ")
 print("Fact 3: ")
